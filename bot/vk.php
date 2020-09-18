@@ -2,10 +2,10 @@
 
 class VK
 {
-    private $version = '5.122';
+    private $version = '5.92';
     private $url = 'https://api.vk.com/method/';
     private $token = '28e1c0e97e75dc24361893d16eb84efbb6b8346207d4d7142b27045ee0a26793b9905822f8b226dd6675e';
-    private $key = '0ba49901';
+    private $key = 'a6e3036f';
     public $data = '';
 
     public function __construct() {
